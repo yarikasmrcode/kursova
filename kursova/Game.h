@@ -62,5 +62,5 @@ public:
 	void updateWorld();
 	void updateCollision();
 	void update(); //logic
-	void render(); //draws the shit
+	void render(); //draws the SANYA
 };
